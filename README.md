@@ -7,7 +7,7 @@ A Java Spring Boot application that identifies and merges contacts based on emai
 - Create and manage primary and secondary contacts
 - Automatically merge contacts with matching email or phone numbers
 - REST API to identify or add contacts
-- Uses PostgreSQL (or your preferred database) for persistence
+- Uses H2 database
 - Dockerized for easy deployment and scalability
 
 ## Technology Stack
